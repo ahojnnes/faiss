@@ -19,7 +19,7 @@
 # the License.
 # =============================================================================
 
-cmake_minimum_required(VERSION 3.24.0 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.17.0 FATAL_ERROR)
 
 set(FAISS_LANGUAGES CXX)
 
